@@ -1,0 +1,19 @@
+h1 {
+    color:pink;
+}
+
+h2 {
+    color: #8fccdf
+}
+
+h3 {
+    color: rgba(140, 193, 117, 0.9)
+}
+
+h4 {
+    color: hsl(258, 47%, 76%)
+}
+
+.heading {
+    background-color: rgb(252, 238, 219);
+}
